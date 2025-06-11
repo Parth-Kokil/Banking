@@ -1,0 +1,10 @@
+feat: Implement banking application with user authentication and account management
+
+- Added API integration using Axios for handling requests to the backend.
+- Created a responsive Navbar component for navigation based on user role.
+- Developed pages for Banker and Customer login and registration.
+- Implemented account management features including creating customers and viewing accounts.
+- Added transaction management with deposit, withdraw, and transfer functionalities.
+- Included date filtering and pagination for transaction history.
+- Designed a user-friendly interface with appropriate error handling and success messages.
+- Configured Vite for development with a proxy to the backend server.
